@@ -4,7 +4,7 @@ import time
 
 import globus_sdk
 
-from .filesystem import posixify_path
+from mdf_toolbox.filesystem import posixify_path
 
 
 # *************************************************
